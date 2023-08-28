@@ -17,11 +17,10 @@
 // Override theme settings (see ../template/settings.scss)
 $mainFont: 'Fira Sans', sans-serif;
 $mainColor: #000;
-$headingFont: 'Palatino Linotype', 'Book Antiqua', Palatino, FreeSerif, serif;
+$headingFont: 'Fira Sans', sans-serif;
 $headingColor: #383D3D;
 $headingTextShadow: none;
 $headingTextTransform: none;
-//$backgroundColor: #F0F1EB;
 $backgroundColor: #F1F1F1;
 $linkColor: #51483D;
 $linkColorHover: lighten( $linkColor, 20% );

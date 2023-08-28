@@ -23,7 +23,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   --r-main-color: #000;
   --r-block-margin: 20px;
   --r-heading-margin: 0 0 20px 0;
-  --r-heading-font: Palatino Linotype, Book Antiqua, Palatino, FreeSerif, serif;
+  --r-heading-font: Fira Sans, sans-serif;
   --r-heading-color: #383D3D;
   --r-heading-line-height: 1.2;
   --r-heading-letter-spacing: normal;
